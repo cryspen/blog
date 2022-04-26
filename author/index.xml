@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on Cryspen Blog</title>
+    <link>https://blog.cryspen.com/author/</link>
+    <description>Recent content in Author on Cryspen Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 26 Jan 2021 10:13:00 +0600</lastBuildDate><atom:link href="https://blog.cryspen.com/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Franziskus Kiefer</title>
+      <link>https://blog.cryspen.com/author/franziskus-kiefer/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.cryspen.com/author/franziskus-kiefer/</guid>
+      <description>Hi, I&amp;rsquo;m Franziskus, a security &amp;amp; cryptography engineer and researcher based in Berlin, and co-founder of Cryspen.
+Previously I was leading the security engineering efforts at Wire.</description>
+    </item>
+    
+  </channel>
+</rss>
