@@ -17,6 +17,25 @@ Previously I was leading the security engineering efforts at Wire.</description>
     </item>
     
     <item>
+      <title>An Executable HPKE Specification</title>
+      <link>https://blog.cryspen.com/blog/hpke_spec/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.cryspen.com/blog/hpke_spec/</guid>
+      <description>HPKE, published as RFC 9180, describes a scheme for hybrid public key encryption.
+ 📚 Please go and read our TL;DR on HPKE if you nee more background on HPKE.</description>
+    </item>
+    
+    <item>
+      <title>TL;DR - Hybrid Public Key Encryption</title>
+      <link>https://blog.cryspen.com/blog/tldr-hpke/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.cryspen.com/blog/tldr-hpke/</guid>
+      <description>HPKE is a CFRG in RFC 9180 that describes a scheme for hybrid public key encryption. It is co-authored by my Cryspen co-founder Karthikeyan Bhargavan and one of his PhD students Benjamin Lipp as part of his research at Inria.</description>
+    </item>
+    
+    <item>
       <title>Search Result</title>
       <link>https://blog.cryspen.com/search/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
