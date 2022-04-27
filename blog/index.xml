@@ -25,5 +25,14 @@
       <description>HPKE is a CFRG in RFC 9180 that describes a scheme for hybrid public key encryption. It is co-authored by my Cryspen co-founder Karthikeyan Bhargavan and one of his PhD students Benjamin Lipp as part of his research at Inria.</description>
     </item>
     
+    <item>
+      <title>Cryspen ERC PoC Grant</title>
+      <link>https://blog.cryspen.com/blog/erc-poc/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.cryspen.com/blog/erc-poc/</guid>
+      <description>Cryspen co-founder Karthik Bhargavan got awarded an ERC Proof of Concept grant for commercialising the know-how and landmark research results from his Inria research group PROSECCO through Cryspen.</description>
+    </item>
+    
   </channel>
 </rss>
