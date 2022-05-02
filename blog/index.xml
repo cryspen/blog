@@ -5,7 +5,17 @@
     <link>https://blog.cryspen.com/blog/</link>
     <description>Recent content in Blog on Cryspen Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.cryspen.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.cryspen.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is High Assurance Cryptography?</title>
+      <link>https://blog.cryspen.com/blog/high-assurance-cryptography-1/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.cryspen.com/blog/high-assurance-cryptography-1/</guid>
+      <description>Cryspen builds high assurance cryptography. But what does this actually mean?
+Before focusing on cryptography it is interesting to look at high assurance software in general.</description>
+    </item>
+    
     <item>
       <title>An Executable HPKE Specification</title>
       <link>https://blog.cryspen.com/blog/hpke_spec/</link>

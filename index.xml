@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 25 Aug 2019 00:52:59 +0300</lastBuildDate><atom:link href="https://blog.cryspen.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>What is High Assurance Cryptography?</title>
+      <link>https://blog.cryspen.com/blog/high-assurance-cryptography-1/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.cryspen.com/blog/high-assurance-cryptography-1/</guid>
+      <description>Cryspen builds high assurance cryptography. But what does this actually mean?
+Before focusing on cryptography it is interesting to look at high assurance software in general.</description>
+    </item>
+    
+    <item>
       <title>Franziskus Kiefer</title>
       <link>https://blog.cryspen.com/author/franziskus-kiefer/</link>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>

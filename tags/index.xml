@@ -5,7 +5,34 @@
     <link>https://blog.cryspen.com/tags/</link>
     <description>Recent content in Tags on Cryspen Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.cryspen.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.cryspen.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Engineering</title>
+      <link>https://blog.cryspen.com/tags/engineering/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.cryspen.com/tags/engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Methods</title>
+      <link>https://blog.cryspen.com/tags/formal-methods/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.cryspen.com/tags/formal-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Assurance</title>
+      <link>https://blog.cryspen.com/tags/high-assurance/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.cryspen.com/tags/high-assurance/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>hacspec</title>
       <link>https://blog.cryspen.com/tags/hacspec/</link>

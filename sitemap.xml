@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.cryspen.com/blog/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cryspen.com/tags/engineering/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cryspen.com/tags/formal-methods/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cryspen.com/tags/high-assurance/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cryspen.com/tags/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cryspen.com/blog/high-assurance-cryptography-1/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.cryspen.com/author/franziskus-kiefer/</loc>
     <lastmod>2022-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cryspen.com/blog/hpke_spec/</loc>
-    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cryspen.com/blog/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cryspen.com/tags/hacspec/</loc>
@@ -18,9 +33,6 @@
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cryspen.com/tags/ietf/</loc>
-    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cryspen.com/tags/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cryspen.com/tags/tldr/</loc>
