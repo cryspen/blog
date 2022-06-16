@@ -41,7 +41,7 @@ Before focusing on cryptography it is interesting to look at high assurance soft
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.cryspen.com/blog/tldr-hpke/</guid>
-      <description>HPKE is a CFRG in RFC 9180 that describes a scheme for hybrid public key encryption. It is co-authored by my Cryspen co-founder Karthikeyan Bhargavan and one of his PhD students Benjamin Lipp as part of his research at Inria.</description>
+      <description>HPKE, defined in RFC 9180, is a CFRG standard that describes a scheme for hybrid public key encryption. It is co-authored by my Cryspen co-founder Karthikeyan Bhargavan and one of his PhD students Benjamin Lipp as part of his research at Inria.</description>
     </item>
     
     <item>
