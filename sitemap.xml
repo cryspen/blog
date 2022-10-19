@@ -3,15 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.cryspen.com/blog/</loc>
-    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cryspen.com/tags/ietf/</loc>
+    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cryspen.com/tags/mls/</loc>
+    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cryspen.com/tags/openmls/</loc>
+    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cryspen.com/blog/hello-openmls/</loc>
+    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cryspen.com/tags/</loc>
+    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cryspen.com/tags/hacl/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cryspen.com/blog/introducing-hacl-packages/</loc>
-    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cryspen.com/tags/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cryspen.com/tags/engineering/</loc>
@@ -36,9 +48,6 @@
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cryspen.com/tags/hpke/</loc>
-    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cryspen.com/tags/ietf/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cryspen.com/tags/tldr/</loc>

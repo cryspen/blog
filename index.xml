@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 25 Aug 2019 00:52:59 +0300</lastBuildDate><atom:link href="https://blog.cryspen.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenMLS</title>
+      <link>https://blog.cryspen.com/blog/hello-openmls/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.cryspen.com/blog/hello-openmls/</guid>
+      <description>We have joined forces with our friends from Phoenix R&amp;amp;D to improve OpenMLS.
+The MLS protocol draft is in the IETF working group&amp;rsquo;s last call and is thus on track to become an RFC soon.</description>
+    </item>
+    
+    <item>
       <title>Introducing HACL Packages</title>
       <link>https://blog.cryspen.com/blog/introducing-hacl-packages/</link>
       <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>

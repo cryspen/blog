@@ -5,7 +5,34 @@
     <link>https://blog.cryspen.com/tags/</link>
     <description>Recent content in Tags on Cryspen Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.cryspen.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.cryspen.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IETF</title>
+      <link>https://blog.cryspen.com/tags/ietf/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.cryspen.com/tags/ietf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MLS</title>
+      <link>https://blog.cryspen.com/tags/mls/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.cryspen.com/tags/mls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenMLS</title>
+      <link>https://blog.cryspen.com/tags/openmls/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.cryspen.com/tags/openmls/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>HACL</title>
       <link>https://blog.cryspen.com/tags/hacl/</link>
@@ -57,15 +84,6 @@
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.cryspen.com/tags/hpke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IETF</title>
-      <link>https://blog.cryspen.com/tags/ietf/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.cryspen.com/tags/ietf/</guid>
       <description></description>
     </item>
     
