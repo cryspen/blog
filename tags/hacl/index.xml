@@ -5,7 +5,17 @@
     <link>https://blog.cryspen.com/tags/hacl/</link>
     <description>Recent content in HACL on Cryspen Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.cryspen.com/tags/hacl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.cryspen.com/tags/hacl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HACL Packages v0.6</title>
+      <link>https://blog.cryspen.com/blog/hacl-0_6/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.cryspen.com/blog/hacl-0_6/</guid>
+      <description>Today, we announce the first release of the HACL Packages libraries. 🎉
+This release of HACL packages includes the first release of the HACL C library and a new release of the hacl-star OCaml bindings.</description>
+    </item>
+    
     <item>
       <title>Introducing HACL Packages</title>
       <link>https://blog.cryspen.com/blog/introducing-hacl-packages/</link>
