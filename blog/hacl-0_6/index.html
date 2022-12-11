@@ -18,11 +18,11 @@
 
 
 
-<link rel="shortcut icon" href="/images/favicon_hu977ceb49d71fe79f08980ca36a95b87d_196_32x0_resize_box_3.png" type="image/x-icon">
-<link rel="icon" href="/images/favicon_hu977ceb49d71fe79f08980ca36a95b87d_196_32x0_resize_box_3.png" type="image/x-icon">
-<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon_hu977ceb49d71fe79f08980ca36a95b87d_196_16x0_resize_box_3.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon_hu977ceb49d71fe79f08980ca36a95b87d_196_32x0_resize_box_3.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon_hu977ceb49d71fe79f08980ca36a95b87d_196_180x0_resize_box_3.png">
+<link rel="shortcut icon" href="/images/favicon_hue13ec9768477f6aaf9b00b431f1b1817_788_32x0_resize_box_3.png" type="image/x-icon">
+<link rel="icon" href="/images/favicon_hue13ec9768477f6aaf9b00b431f1b1817_788_32x0_resize_box_3.png" type="image/x-icon">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon_hue13ec9768477f6aaf9b00b431f1b1817_788_16x0_resize_box_3.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon_hue13ec9768477f6aaf9b00b431f1b1817_788_32x0_resize_box_3.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon_hue13ec9768477f6aaf9b00b431f1b1817_788_180x0_resize_box_3.png">
 
 
 
@@ -118,7 +118,7 @@ This release of HACL packages includes the first release of the HACL C library a
 
 
 
-<img loading="prelaod" decoding="async" class="img-fluid" width="200" height="624" src="/images/logo_hu4402d4d5189f38fbec25c9e5bb6018cc_7318_200x0_resize_q95_h2_box_3.webp" alt="Cryspen Blog" onerror="this.onerror=null;this.src='\/images\/logo_hu4402d4d5189f38fbec25c9e5bb6018cc_7318_200x0_resize_box_3.png'">
+<img loading="prelaod" decoding="async" class="img-fluid" width="200" height="558" src="/images/logo_hu1cb57a4997f8217da19d9e287d7f0e21_59274_200x0_resize_q95_h2_box_3.webp" alt="Cryspen Blog" onerror="this.onerror=null;this.src='\/images\/logo_hu1cb57a4997f8217da19d9e287d7f0e21_59274_200x0_resize_box_3.png'">
 
 
  
@@ -338,7 +338,7 @@ that chooses the best implementation for you.</p>
 <p>So, here is the code &hellip;</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-c" data-lang="c"><span style="display:flex;"><span><span style="color:#75715e">#include</span> <span style="color:#75715e">&#34;Hacl_Hash_Blake2.h&#34;</span><span style="color:#75715e">
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">void</span> <span style="color:#a6e22e">print_hex_ln</span>(size_t bytes_len, <span style="color:#66d9ef">uint8_t</span> <span style="color:#f92672">*</span>bytes);
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">void</span> <span style="color:#a6e22e">print_hex_ln</span>(<span style="color:#66d9ef">size_t</span> bytes_len, <span style="color:#66d9ef">uint8_t</span> <span style="color:#f92672">*</span>bytes);
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">int</span> <span style="color:#a6e22e">main</span>() {
 </span></span><span style="display:flex;"><span>  <span style="color:#75715e">// Reserve memory for a 64 byte digest, i.e.,
@@ -348,14 +348,14 @@ that chooses the best implementation for you.</p>
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>  <span style="color:#75715e">// The message we want to hash.
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#66d9ef">const</span> <span style="color:#66d9ef">char</span> <span style="color:#f92672">*</span>message <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Hello, HACL Packages!&#34;</span>;
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">uint32_t</span> message_len <span style="color:#f92672">=</span> strlen(message);
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">uint32_t</span> message_len <span style="color:#f92672">=</span> <span style="color:#a6e22e">strlen</span>(message);
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>  <span style="color:#75715e">// BLAKE2B can be used as an HMAC, i.e., with a key.
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#75715e">// We don&#39;t want to use a key here and thus provide a zero-sized key.
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#66d9ef">uint32_t</span> key_len <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>;
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">uint8_t</span> <span style="color:#f92672">*</span>key <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>;
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>  Hacl_Blake2b_32_blake2b(
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">Hacl_Blake2b_32_blake2b</span>(
 </span></span><span style="display:flex;"><span>    output_len,
 </span></span><span style="display:flex;"><span>    output,
 </span></span><span style="display:flex;"><span>    message_len,
@@ -363,15 +363,15 @@ that chooses the best implementation for you.</p>
 </span></span><span style="display:flex;"><span>    key_len, key
 </span></span><span style="display:flex;"><span>  );
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>  print_hex_ln(output_len, output);
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">print_hex_ln</span>(output_len, output);
 </span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">void</span> <span style="color:#a6e22e">print_hex_ln</span>(size_t bytes_len, <span style="color:#66d9ef">uint8_t</span> <span style="color:#f92672">*</span>bytes) {
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">void</span> <span style="color:#a6e22e">print_hex_ln</span>(<span style="color:#66d9ef">size_t</span> bytes_len, <span style="color:#66d9ef">uint8_t</span> <span style="color:#f92672">*</span>bytes) {
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">for</span> (<span style="color:#66d9ef">int</span> i <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>; i <span style="color:#f92672">&lt;</span> bytes_len; <span style="color:#f92672">++</span>i) {
-</span></span><span style="display:flex;"><span>    printf(<span style="color:#e6db74">&#34;%02x&#34;</span>, bytes[i]);
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">printf</span>(<span style="color:#e6db74">&#34;%02x&#34;</span>, bytes[i]);
 </span></span><span style="display:flex;"><span>  }
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>  printf(<span style="color:#e6db74">&#34;</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#34;</span>);
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">printf</span>(<span style="color:#e6db74">&#34;</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#34;</span>);
 </span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div><p>Create a <code>main.c</code> file with the code above and run &hellip;</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>clang main.c -Iinclude -Iinclude/hacl lib/libhacl_static.a -o main
@@ -392,7 +392,7 @@ again here if you are new to HACL.</p>
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">let</span> main <span style="color:#f92672">=</span>
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">let</span> msg <span style="color:#f92672">=</span> Bytes.of_string <span style="color:#e6db74">&#34;Hello, HACL Packages!&#34;</span> <span style="color:#66d9ef">in</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">let</span> digest <span style="color:#f92672">=</span> Hacl.Blake2b_32.hash msg 64 <span style="color:#66d9ef">in</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">let</span> digest <span style="color:#f92672">=</span> Hacl.Blake2b_32.hash msg <span style="color:#ae81ff">64</span> <span style="color:#66d9ef">in</span>
 </span></span><span style="display:flex;"><span>  Printf.printf <span style="color:#e6db74">&#34;%s</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#34;</span> <span style="color:#f92672">(</span>Hex.show <span style="color:#f92672">(</span>Hex.of_bytes digest<span style="color:#f92672">));</span>
 </span></span></code></pre></div><p>We assume this was put into a file called <code>blake2b_example.ml</code>.
 We can build this file now as follows.</p>
